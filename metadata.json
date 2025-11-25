@@ -1,0 +1,5 @@
+{
+  "name": "QuizWoiz",
+  "description": "A modern, AI-powered MCQ quiz builder platform allowing generation from text, topics, and files.",
+  "requestFramePermissions": []
+}
